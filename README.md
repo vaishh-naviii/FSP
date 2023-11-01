@@ -70,7 +70,7 @@ The project aims to forecast future sales for a retail company based on historic
 ADS_PHASE vise project submission
 future_sales_prediction.
 The dataset used for this project can be obtained from 
-[Kaggle]( https://www.kaggle.com/datasets/chakradharmattapalli/future-sales-prediction )
+[Kaggle] ( https://www.kaggle.com/datasets/chakradharmattapalli/future-sales-prediction )
 . It includes historical sales data for various products in different shops, along with additional information such as item categories and shop details. Ensure that you download the dataset and place it in the appropriate directory as specified in the code.
 
 ## Dependencies
